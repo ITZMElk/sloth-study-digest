@@ -1,0 +1,2 @@
+# Only needed for PDF input. Everything else uses the Python standard library.
+pypdf>=4.0
